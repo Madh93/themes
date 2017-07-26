@@ -6,4 +6,4 @@ Own Manjarxion and Mintxion themes based on [Archxion theme](https://github.com/
 
 ##### Preview
 
-<p align="center"><img title="Preview" src="https://github.com/Madh93/themes/tree/master/grub/preview/manjarxion_preview.png"/></p>
+<p align="center"><img title="Preview" src="https://raw.githubusercontent.com/Madh93/themes/master/grub/preview/manjarxion_preview.png"/></p>

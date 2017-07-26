@@ -6,4 +6,4 @@ Custom Numix Circle icon theme based on original [Numix Circle icon theme](https
 
 ##### Preview
 
-<p align="center"><img title="Preview" src="https://github.com/Madh93/themes/tree/master/icons/preview/numix_preview.png"/></p>
+<p align="center"><img title="Preview" src="https://raw.githubusercontent.com/Madh93/themes/master/icons/preview/numix_preview.png"/></p>
